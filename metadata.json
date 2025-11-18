@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CricAI Pulse",
+  "description": "A real-time cricket information hub powered by Gemini. Features live news via Search Grounding, AI-generated player profiles, and a dedicated cricket analyst chatbot.",
+  "requestFramePermissions": []
+}
